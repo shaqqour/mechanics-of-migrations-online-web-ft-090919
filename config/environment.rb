@@ -9,6 +9,5 @@ require 'bundler/setup'
 Bundler.require
 
 
-# put the code to connect to the database here
 
 require_relative "../artist.rb"
